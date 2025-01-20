@@ -1,0 +1,14 @@
+div.container{
+    background-color: lightsalmon;
+    
+    display: flex;
+    flex-direction: column;
+}
+div.item{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+/* OBS: Primeiros Estudos Sobre Flex-box o_o*/
+/*Segundo As ordens Do prof° guanabara Modulo 5 de html e css*/
