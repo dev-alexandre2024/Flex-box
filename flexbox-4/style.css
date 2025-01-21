@@ -1,0 +1,18 @@
+div.container{
+    background-color: lightsalmon;
+    height: 300px;
+    display: flex;
+    flex-flow: row nowrap;
+    flex-wrap:row wrap-reverse;
+    justify-content: space-around;
+    align-items: stretch;
+}
+div.item{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    text-align: center;
+    justify-content: space-between;
+    flex: auto;
+}
+/* OBS: Primeiros Estudos Sobre Flex-box o_o*/
+/*Segundo As ordens Do prof° guanabara Modulo 5 de html e css*/
