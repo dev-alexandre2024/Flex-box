@@ -1,0 +1,15 @@
+div.container{
+    background-color: lightsalmon;
+    align-items: flex-start;
+    display: flex;
+    flex-flow: row wrap;
+    
+
+}
+div.item{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    text-align: center;
+    padding: 40px;
+    
+}
