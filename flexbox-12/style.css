@@ -1,0 +1,21 @@
+div.container{
+    background-color: lightsalmon;
+    flex-flow: row nowrap;
+    display: flex;
+
+}
+div.item{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    text-align: center;
+
+}
+div#cxA{
+flex: 1 1 150px;
+}
+div#cxB{
+flex: 1 8 auto;
+}
+div#cxC{
+flex: 1 8 auto;
+}
