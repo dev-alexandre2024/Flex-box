@@ -1,0 +1,24 @@
+div.container{
+    background-color: lightsalmon;
+    flex-flow: row nowrap;
+    display: flex;
+
+}
+div.item{
+    background-color: lightseagreen;
+    border: 1px solid black;
+    text-align: center;
+    flex-basis:200px;
+}
+div#cxA{
+flex-shrink: 1;
+flex-grow: 2;
+}
+div#cxB{
+flex-shrink: 1;
+flex-grow: 2;
+}
+div#cxC{
+flex-shrink: 1;
+flex-grow: 2;
+}
